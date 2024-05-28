@@ -1,0 +1,23 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  http: ^1.2.1
+  cupertino_icons: ^1.0.8
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
